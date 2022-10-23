@@ -1,10 +1,11 @@
 package confg
 
 import (
-	"gopkg.in/yaml.v2"
 	"io"
 	"log"
 	"os"
+
+	"gopkg.in/yaml.v2"
 )
 
 type conf struct {
