@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/aggrssvkid/L2/develop/dev11/cache"
-	"github.com/aggrssvkid/L2/develop/dev11/cache/cell"
+	"github.com/aggrssvkid/Wild-L2/develop/dev11/cache"
+	"github.com/aggrssvkid/Wild-L2/develop/dev11/cache/cell"
 )
 
 func getDate(r *http.Request) (time.Time, error) {

@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/aggrssvkid/L2/develop/dev11/cache/LRU"
-	"github.com/aggrssvkid/L2/develop/dev11/cache/cell"
+	"github.com/aggrssvkid/Wild-L2/develop/dev11/cache/LRU"
+	"github.com/aggrssvkid/Wild-L2/develop/dev11/cache/cell"
 )
 
 func New() *Cache {
